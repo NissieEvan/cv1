@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<center>
+
+<head>
+  <body bgcolor="#424949">
+    <body text="cyan">
+  <meta charset="utf-8">
+  <title> 🔥 nissie'personal site</title>
+</head>
+<hr size="3" noshade>
+<body>
+<img src="dragon.png" alt="the dragon i want to become">
+  <h1>nissieevan</h1>
+  <p><em>student who's aspiring to learn new things to become the greatest of all time</em> </p>
+  <p>iam an aspiring entrapraneur who's willing to become the greatest of all time </p>
+  <hr size="3" noshade>
+  <h3>all the works iam willing to do in order to achieve that </h3>
+  <ul>
+    <li>completed inter bipc from andhra loyola college </li>
+    <li>completed python dev course</li>
+    <li>learning webdev bootcamp by angela yu(app london brewery)</li>
+    <li>joined bba retail operations in andhra loyola college
+ </ul>
+  <h3>HOBBIES</h3>
+  <ol>
+    <li>workout frequntly</li>
+    <li>coding</li>
+    <li>investing,and stock analisys</li>
+    <li>spend money</li>
+  </ol>
+  <body link="red">
+  <body vlink="#1B1212">
+  <body alink="blue">
+
+    </body>
+
+  </body>
+<h1><a href="https://www.youtube.com/watch?v=GI2sMndjYf8"> 86-the answer </a></h1>
+</body>
+
+</body>
+</html>
